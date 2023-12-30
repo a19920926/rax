@@ -1,0 +1,78 @@
+# This file is a part of rAthena.
+#   Copyright(C) 2021 rAthena Development Team
+#   https://rathena.org - https://github.com/rathena
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+###########################################################################
+# Magic Mushroom Database
+###########################################################################
+#
+# Magic Mushroom Settings
+#
+###########################################################################
+# - Skill       Skill to be casted by Magic Mushroom.
+###########################################################################
+
+Header:
+  Type: MAGIC_MUSHROOM_DB
+  Version: 1
+
+Body:
+  - Skill: SM_MAGNUM
+    Description: 怒爆(7)
+  - Skill: SM_ENDURE
+    Description: 霸体(8)
+  - Skill: MG_SIGHT
+    Description: 火狩(10)
+  - Skill: AL_RUWACH
+    Description: 光猎(24)
+  - Skill: AL_CRUCIS
+    Description: 天使之光(32)
+  - Skill: AL_ANGELUS
+    Description: 天使之障壁(33)
+  - Skill: AC_CONCENTRATION
+    Description: 心神凝聚(45)
+  - Skill: KN_AUTOCOUNTER
+    Description: 反击(61)
+  - Skill: PR_MAGNIFICAT
+    Description: 圣母之颂歌(74)
+  - Skill: BS_HAMMERFALL
+    Description: 大地之击(110)
+  - Skill: BS_MAXIMIZE
+    Description: 武器值最大化(114)
+  - Skill: NV_FIRSTAID
+    Description: 紧急治疗(142)
+  - Skill: TF_BACKSLIDING
+    Description: 后退回避(150)
+  - Skill: TF_PICKSTONE
+    Description: 捡石头(151)
+  - Skill: MG_ENERGYCOAT
+    Description: 能量外套(157)
+  - Skill: CR_AUTOGUARD
+    Description: 自动防御(249)
+  - Skill: CR_PROVIDENCE
+    Description: 神佑之光(256)
+  - Skill: MO_CALLSPIRITS
+    Description: 蓄气(261)
+  - Skill: MO_EXPLOSIONSPIRITS
+    Description: 爆气(270)
+  - Skill: DC_SCREAM
+    Description: 惊声尖叫(326)
+  - Skill: GS_GLITTERING
+    Description: 双面硬币(500)
+  - Skill: NJ_TATAMIGAESHI
+    Description: 榻榻米翻开(527)
+  - Skill: NJ_UTSUSEMI
+    Description: 金蝉脱壳(531)
